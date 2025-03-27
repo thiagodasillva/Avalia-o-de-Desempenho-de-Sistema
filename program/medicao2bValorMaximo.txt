@@ -1,0 +1,539 @@
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 999
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1009
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1023
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 992
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1002
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 998
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1003
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 981
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 982
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1029
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 980
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1009
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 989
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 995
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1017
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 993
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 980
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 984
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 993
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 994
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 998
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 984
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 993
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1001
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1002
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 994
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1009
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 991
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1012
+
+
+Testando QUICK com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao QUICK 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+QUICK 9400000 940000 1002
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1336
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1343
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1344
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1314
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1343
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1311
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1341
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1334
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1338
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1342
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1345
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1332
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1314
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1340
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1375
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1404
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1388
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1358
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1342
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1325
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1327
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1313
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1326
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1344
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1325
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1325
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1344
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1329
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1329
+
+
+Testando MERGE com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao MERGE 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+MERGE 9400000 940000 1339
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 385
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 391
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 405
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 392
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 417
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 391
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 405
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 392
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 381
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 374
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 396
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 390
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 395
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 397
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 396
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 397
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 382
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 387
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 381
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 380
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 393
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 403
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 387
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 381
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 379
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 380
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 395
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 383
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 396
+
+
+Testando COUNTING com tamanho 9400000 e valor mßximo 940000
+Executando: java MedidorDeOrdenacao COUNTING 9400000 940000
+Algoritmo TamanhoDaEntrada ValorMaximo TempoDeOrdenacao
+COUNTING 9400000 940000 379
+
