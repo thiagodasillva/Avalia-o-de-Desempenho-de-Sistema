@@ -1,5 +1,5 @@
 # Nome do arquivo de entrada e saída
-input_file = "C:/Users/valderez/Documents/ADS/ADS4/Avalia-o-de-Desempenho-de-Sistema/program/medicao2bValorMaximo.txt"
+input_file = "program/esseMesmo9400000.txt"
 output_file = "resultados_processadosValorMaximo.txt"
 
 # Abre o arquivo de entrada para leitura e o arquivo de saída para escrita
